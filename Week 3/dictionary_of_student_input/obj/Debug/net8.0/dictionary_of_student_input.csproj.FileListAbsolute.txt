@@ -1,0 +1,28 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\refint\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\dictionary_of_student_input\obj\Debug\net8.0\ref\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\bin\Debug\net8.0\dictionary_of_student_input.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\refint\dictionary_of_student_input.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\dictionary_of_student_input.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\dictionary_of_student_input\obj\Debug\net8.0\ref\dictionary_of_student_input.dll

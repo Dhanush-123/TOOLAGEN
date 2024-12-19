@@ -1,0 +1,14 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\bin\Debug\net8.0\fruits_list.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\bin\Debug\net8.0\fruits_list.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\bin\Debug\net8.0\fruits_list.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\bin\Debug\net8.0\fruits_list.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\bin\Debug\net8.0\fruits_list.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\refint\fruits_list.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\fruits_list.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\fruits_list\obj\Debug\net8.0\ref\fruits_list.dll

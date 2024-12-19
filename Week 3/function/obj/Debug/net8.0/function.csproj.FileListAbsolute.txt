@@ -1,0 +1,28 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\bin\Debug\net8.0\function.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\bin\Debug\net8.0\function.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\bin\Debug\net8.0\function.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\bin\Debug\net8.0\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\bin\Debug\net8.0\function.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\refint\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\function.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\function\obj\Debug\net8.0\ref\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\bin\Debug\net8.0\function.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\bin\Debug\net8.0\function.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\bin\Debug\net8.0\function.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\bin\Debug\net8.0\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\bin\Debug\net8.0\function.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\refint\function.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\function.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 3\function\obj\Debug\net8.0\ref\function.dll
