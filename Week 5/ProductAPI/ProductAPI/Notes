@@ -1,0 +1,21 @@
+the Question is 
+
+Create a Web API with multiple endpoints (e.g., products) and test them using Postman. 
+(week-5 exe-1)
+
+this program run using Postman
+
+process
+
+1. to display all product http://localhost:5106/api/products (method is GET)
+2. to display perticular data http://localhost:5106/api/products/{number} (methos is GET)
+3. to add some product 
+     . method Post
+     . select raw to enter data 
+     . then select the lang JSON
+     . then click SEND 
+4. to delete data 
+     . select DELETE method 
+     . type url http://localhost:5106/api/products/{data need to be delete menction the ID}
+     . then click send 
+          
