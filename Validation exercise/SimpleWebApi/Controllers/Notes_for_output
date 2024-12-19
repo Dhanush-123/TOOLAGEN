@@ -1,0 +1,18 @@
+The output Notes 
+
+Validation exercise-  
+
+<!-- Create a simple Web API project and configure basic middleware in Program.cs (e.g., exception handling, logging). -->
+Test Controller C#
+1. To get the information for Test https://localhost:5198/api/test. (its an example host and it shows the test api)
+2. To get the information for Error https://localhost:5198/api/test/error. (its an example host and it shows the test api)
+
+
+Students Controller C#
+1. To get the information of students https://localhost:5198/api/students. (its an example host and it show all the students details api)
+2. To get the information of students https://localhost:5198/api/students/1. (its an example host and it show all the students details and the 1 is represent as the student ID api) in this if any non menction number is writrn then the error shows.
+
+
+<!-- Define a route that takes a product ID as a parameter and returns the product details via a GET request -->
+Bike Products Controller C#
+1. To get the information or output in POSTMAN http://localhost:5198/api/bikeproducts/{enter the id example 1} and then enter send but keeping the GET option (this can be done in normal browser also)

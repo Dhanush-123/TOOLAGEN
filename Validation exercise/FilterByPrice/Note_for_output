@@ -1,0 +1,16 @@
+1. Get all car products:
+   GET /api/CarProducts
+   This should return all car products.
+
+2. Filter by price range:
+   GET /api/CarProducts?minPrice=(any amount)&maxPrice=(any amount)
+   This should return all car products with a price between the amount  menctioned.
+
+3. Filter by minimum price:
+   GET /api/CarProducts?minPrice=(any amount)
+   This should return all car products with a price greater than or equal to amount menctioned.
+
+4. Filter by maximum price:
+ GET /api/CarProducts?maxPrice=(any amount)
+ This should return all car products with a price less than or equal to amount menctioned.
+
