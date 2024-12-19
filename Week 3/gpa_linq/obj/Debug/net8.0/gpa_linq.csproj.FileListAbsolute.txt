@@ -1,0 +1,14 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\bin\Debug\net8.0\gpa_linq.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\bin\Debug\net8.0\gpa_linq.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\bin\Debug\net8.0\gpa_linq.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\bin\Debug\net8.0\gpa_linq.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\bin\Debug\net8.0\gpa_linq.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\refint\gpa_linq.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\gpa_linq.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\gpa_linq\obj\Debug\net8.0\ref\gpa_linq.dll
