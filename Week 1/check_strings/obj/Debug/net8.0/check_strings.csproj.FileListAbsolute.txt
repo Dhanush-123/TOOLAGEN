@@ -1,0 +1,28 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\bin\Debug\net8.0\check_strings.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\bin\Debug\net8.0\check_strings.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\bin\Debug\net8.0\check_strings.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\bin\Debug\net8.0\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\bin\Debug\net8.0\check_strings.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\refint\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\check_strings.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\check_strings\obj\Debug\net8.0\ref\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\bin\Debug\net8.0\check_strings.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\bin\Debug\net8.0\check_strings.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\bin\Debug\net8.0\check_strings.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\bin\Debug\net8.0\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\bin\Debug\net8.0\check_strings.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\refint\check_strings.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\check_strings.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\check_strings\obj\Debug\net8.0\ref\check_strings.dll

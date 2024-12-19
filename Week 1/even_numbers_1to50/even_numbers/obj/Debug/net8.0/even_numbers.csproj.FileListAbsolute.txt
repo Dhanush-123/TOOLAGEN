@@ -1,0 +1,28 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\bin\Debug\net8.0\even_numbers.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\bin\Debug\net8.0\even_numbers.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\bin\Debug\net8.0\even_numbers.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\bin\Debug\net8.0\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\bin\Debug\net8.0\even_numbers.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\refint\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\even_numbers.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\even_numbers\obj\Debug\net8.0\ref\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\bin\Debug\net8.0\even_numbers.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\bin\Debug\net8.0\even_numbers.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\bin\Debug\net8.0\even_numbers.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\bin\Debug\net8.0\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\bin\Debug\net8.0\even_numbers.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\refint\even_numbers.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\even_numbers.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\TOOLAGEN\Week 1\even_numbers_1to50\even_numbers\obj\Debug\net8.0\ref\even_numbers.dll
