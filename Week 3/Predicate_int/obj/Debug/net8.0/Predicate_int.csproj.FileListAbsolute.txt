@@ -1,0 +1,14 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\bin\Debug\net8.0\Predicate_int.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\bin\Debug\net8.0\Predicate_int.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\bin\Debug\net8.0\Predicate_int.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\bin\Debug\net8.0\Predicate_int.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\bin\Debug\net8.0\Predicate_int.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\refint\Predicate_int.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\Predicate_int.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\Predicate_int\obj\Debug\net8.0\ref\Predicate_int.dll
