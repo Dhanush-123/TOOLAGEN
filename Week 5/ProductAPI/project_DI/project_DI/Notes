@@ -1,0 +1,11 @@
+the Question is 
+
+Implement dependency injection for a service that retrieves product details. 
+<!-- (week-5 exe-2) -->
+
+
+1. to display all the product http://localhost:5297/api/product/all
+2. to display a perticular data http://localhost:5297/api/product/1 
+3. in this the error also will be shown 
+
+keep open the SSMS where you fetch the data .
