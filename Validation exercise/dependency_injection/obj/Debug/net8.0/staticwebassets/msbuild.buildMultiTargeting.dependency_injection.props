@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dependency_injection.props" />
+</Project>

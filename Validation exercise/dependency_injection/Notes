@@ -1,0 +1,26 @@
+Question 
+
+Dependency Injection (DI): 
+1. Implement a service that provides fake product data and inject it into a controller using constructor injection. 
+2. Configure service lifetimes for a simple logger service (Transient, Scoped, Singleton) and inject the service into different controllers. 
+3. Create a service that retrieves product details asynchronously, inject it using DI, and ensure that the service is called in an async controller method.
+
+output
+1.http://localhost:5222/api/product   Product Service
+2.http://localhost:5222/api/logger/log/TestMessage   Logger Service
+3.http://localhost:5222/api/asyncproduct/details/1   Async Product Service
+
+
+
+
+Console Output for Logs
+When you test the endpoints, you should also see corresponding console logs (if Console.WriteLine statements are added):
+
+For ProductController:
+GetProducts endpoint hit
+
+For LoggerController:
+LogMessage endpoint hit with message: TestMessage
+
+For AsyncProductController:
+GetProductDetails endpoint hit with ID: 1
