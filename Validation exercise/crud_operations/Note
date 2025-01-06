@@ -1,0 +1,28 @@
+Question 
+
+Create a controller with CRUD operations (GET, POST, PUT, DELETE) for managing products. 
+
+
+output 
+
+1. Method: GET 
+     .http://localhost:5062/api/products   GET all products
+     .http://localhost:5062/api/products/{ID want to get}   GET a single product by ID
+
+2. Method: POST
+     .http://localhost:5062/api/products   ADD a new data OR POST a new product
+       eg= {
+             "name": "Tablet",
+             "price": 15000,
+             "quantity": 20
+           }
+
+3. Method: PUT
+     .http://localhost:5062/api/products/{ID want to update}   To update a exesting data OR PUT (update a product)
+      eg= {
+             "name": "Updated Laptop",
+             "price": 55000,
+             "quantity": 5
+          }
+4. Method: DELETE
+     .http://localhost:5062/api/products/{ID to be deleted}   DELETE a product
