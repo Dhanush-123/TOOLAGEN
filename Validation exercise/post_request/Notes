@@ -1,0 +1,13 @@
+question is 
+
+ Create a controller action that accepts a list of products in the body of a POST request and returns a summary of how many were added.
+
+ this is use to post data in POSTMAN 
+
+ [
+    { "Id": 1, "Name": "Product A", "Price": 10.99 },
+    { "Id": 2, "Name": "Product B", "Price": 15.50 }
+]
+
+
+usig post method http://localhost:5095/api/products/add
