@@ -1,0 +1,15 @@
+Question 
+
+1. Use delegates (e.g., Func) inside a service to perform a calculation (such as discount on product prices) and return the result via an API endpoint. 
+2. Implement a LINQ query that selects products where the price is greater than a certain amount, and return the filtered result via an API action
+
+
+Get Discounted Products
+http://localhost:5104/api/products/discounted?discountPercentage=10
+
+Get Filtered Products
+http://localhost:5104/api/products/filtered?priceThreshold=500
+
+Invalid Discount Percentage
+http://localhost:5104/api/products/discounted?discountPercentage=100
+
