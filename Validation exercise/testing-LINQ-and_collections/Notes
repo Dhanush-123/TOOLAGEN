@@ -1,0 +1,8 @@
+Question is 
+
+1. Inside a controller, use a LINQ query to filter and sort a list of products, then return the filtered result. 
+2. Store a collection of users in a static list and allow clients to retrieve the list via a GET request.
+
+to display to sort by price http://localhost:5295/api/data/products?filter=Laptop&sortBy=price
+
+to display user http://localhost:5295/api/data/users 
