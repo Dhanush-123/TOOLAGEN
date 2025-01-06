@@ -1,0 +1,10 @@
+Question is 
+
+Return different types of HTTP status codes based on conditions (e.g., return 404 Not Found when a product is not found)
+
+1. to  display product http://localhost:5074/api/products/1 
+2. invalid ID http://localhost:5074/api/products/0 400 Bad Request
+3. Product Not Found http://localhost:5074/api/products/5 404 Not Found
+
+
+using POSTMAN

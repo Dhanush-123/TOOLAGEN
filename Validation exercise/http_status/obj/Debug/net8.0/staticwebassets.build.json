@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SIcL2Adia6kpD0pJuJn75PqYeyiSLQkPRFYJsLkzhWE=",
+  "Source": "http_status",
+  "BasePath": "_content/http_status",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
