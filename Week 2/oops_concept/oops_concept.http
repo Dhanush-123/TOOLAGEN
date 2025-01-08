@@ -1,0 +1,6 @@
+@oops_concept_HostAddress = http://localhost:5022
+
+GET {{oops_concept_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

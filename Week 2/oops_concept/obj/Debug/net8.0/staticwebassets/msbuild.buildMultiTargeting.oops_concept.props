@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\oops_concept.props" />
+</Project>
